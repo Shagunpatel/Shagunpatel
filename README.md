@@ -2,7 +2,8 @@
 
 ###
 
-<p align="left">I’m Shagun Patel -  a Computer Science grad student at SDSU, passionate about AI, ML, and backend engineering.  <br>I enjoy building intelligent systems and experimenting with cutting-edge LLMs and robotics.</p>
+<p align="left">I’m Shagun Patel, an M.S. Computer Science student at SDSU passionate about AI, backend engineering, and cloud-native systems.
+I build FastAPI microservices, deploy LLMs for intelligent applications, and explore autonomous AI systems through my research at SDSU’s RTEC Lab..</p>
 
 ###
 
